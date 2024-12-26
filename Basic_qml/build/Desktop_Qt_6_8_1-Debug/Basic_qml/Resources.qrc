@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>assets/wheel.png</file>
+        <file>assets/stick.png</file>
+        <file>assets/background.png</file>
+    </qresource>
+</RCC>

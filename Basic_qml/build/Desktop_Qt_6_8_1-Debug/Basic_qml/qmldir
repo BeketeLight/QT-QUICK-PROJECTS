@@ -1,0 +1,5 @@
+module Basic_qml
+typeinfo appBasic_qml.qmltypes
+prefer :/qt/qml/Basic_qml/
+Main 1.0 Main.qml
+
