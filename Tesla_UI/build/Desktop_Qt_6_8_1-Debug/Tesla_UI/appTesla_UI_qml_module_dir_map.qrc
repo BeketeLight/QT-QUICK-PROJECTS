@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Tesla_UI">/home/light/LIFE PROJECT/QML_projects/Tesla_UI/build/Desktop_Qt_6_8_1-Debug/Tesla_UI</file>
+
+  </qresource>
+</RCC>

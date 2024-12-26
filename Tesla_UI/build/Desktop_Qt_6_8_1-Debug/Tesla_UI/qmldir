@@ -1,0 +1,8 @@
+module Tesla_UI
+typeinfo appTesla_UI.qmltypes
+prefer :/qt/qml/Tesla_UI/
+Main 1.0 Main.qml
+BottomBar 1.0 ui/bottomBar/BottomBar.qml
+RightScreen 1.0 ui/RightScreen/RightScreen.qml
+LeftScreen 1.0 ui/LeftScreen/LeftScreen.qml
+

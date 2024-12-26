@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ui/assets/carRender.png</file>
+        <file>ui/assets/car.png</file>
+    </qresource>
+</RCC>
