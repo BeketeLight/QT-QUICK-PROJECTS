@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/shuffle.png</file>
+        <file>assets/prev-button.png</file>
+        <file>assets/play-button(1).png</file>
+        <file>assets/pause.png</file>
+        <file>assets/next-button.png</file>
+        <file>assets/button.png</file>
+        <file>assets/repeat_button.png</file>
+        <file>assets/magnifying-glass.png</file>
+        <file>assets/homepage.png</file>
+        <file>assets/cart.png</file>
+        <file>assets/friends.png</file>
+        <file>assets/bell.png</file>
+        <file>assets/right-arrow.png</file>
+        <file>assets/plus.png</file>
+        <file>assets/library.png</file>
+    </qresource>
+</RCC>

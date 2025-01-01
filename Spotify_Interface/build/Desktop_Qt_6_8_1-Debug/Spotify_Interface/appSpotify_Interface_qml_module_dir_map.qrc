@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Spotify_Interface">/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/Spotify_Interface</file>
+
+  </qresource>
+</RCC>

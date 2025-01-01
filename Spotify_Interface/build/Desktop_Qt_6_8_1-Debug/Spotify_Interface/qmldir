@@ -1,0 +1,8 @@
+module Spotify_Interface
+typeinfo appSpotify_Interface.qmltypes
+prefer :/qt/qml/Spotify_Interface/
+Main 1.0 Main.qml
+BottomPlayerBar 1.0 ui/bottomBar/BottomPlayerBar.qml
+TopBar 1.0 ui/TopBar/TopBar.qml
+RightScreen 1.0 ui/rightScreen/RightScreen.qml
+
