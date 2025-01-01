@@ -1,23 +1,23 @@
 import QtQuick 2.15
 
 Item {
+    id:root
+    anchors.fill: parent
 
-    anchors.left: parent.left
-    Row{
+    Flow{
+        width: parent.width
         spacing: 10
-        anchors.left: parent.left
-
 
         Image {
             id: libraryIcon
             source: "qrc:/assets/library.png"
             height: 32
             width: 32
+            fillMode: Image.PreserveAspectFit
         }
         Text{
             text: "Your Library"
             font.pixelSize: 30
-            anchors.verticalCenter: libraryIcon.verticalCenter
         }
     }
 

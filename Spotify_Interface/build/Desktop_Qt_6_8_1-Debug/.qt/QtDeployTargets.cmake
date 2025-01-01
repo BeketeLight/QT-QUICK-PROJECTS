@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appSpotify_Interface_FILE /home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/appSpotify_Interface)
+set(__QT_DEPLOY_TARGET_appSpotify_Interface_TYPE EXECUTABLE)

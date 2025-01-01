@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a212880de9c446a03aa2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Spotify_Interface",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-8c05c402609cb7494263.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-5aec050b78bd11b61702.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-98f2b803ae46afc5468a.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a123619620866b1a215a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-7a24842257c9cc3ef16a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface-Debug-847ba94ffec82404bf09.json",
+					"name" : "appSpotify_Interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_autogen-Debug-6f79ec22dc95e319fcde.json",
+					"name" : "appSpotify_Interface_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_autogen_timestamp_deps-Debug-c3b980164dcf01bd6f0f.json",
+					"name" : "appSpotify_Interface_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_generate_qmlls_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_generate_qmlls_ini_file-Debug-24df013c1f4e545a96ad.json",
+					"name" : "appSpotify_Interface_generate_qmlls_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_qmlimportscan-Debug-a9672e7a95878702abf6.json",
+					"name" : "appSpotify_Interface_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_qmllint-Debug-c22772f752306cd861e5.json",
+					"name" : "appSpotify_Interface_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_qmllint_json-Debug-44c4fd08693da299402c.json",
+					"name" : "appSpotify_Interface_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_qmllint_module-Debug-4fd6ac9371ea044f06f6.json",
+					"name" : "appSpotify_Interface_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_qmltyperegistration-Debug-03be39994bfa545188ac.json",
+					"name" : "appSpotify_Interface_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpotify_Interface_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpotify_Interface_tooling-Debug-20552daf8f96c6390b9c.json",
+					"name" : "appSpotify_Interface_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSpotify_Interface_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSpotify_Interface_aotstats_target-Debug-4ccc87a5f8b98c976f01.json",
+					"name" : "module_appSpotify_Interface_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug",
+		"source" : "/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

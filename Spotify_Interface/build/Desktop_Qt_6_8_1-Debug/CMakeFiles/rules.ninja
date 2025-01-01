@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/light/Qt/Tools/CMake/bin/cmake --regenerate-during-build -S"/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface" -B"/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug"
+  command = /opt/Qt/Tools/CMake/bin/cmake --regenerate-during-build -S/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface -B/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug
   description = Re-running CMake...
   generator = 1
 
@@ -51,7 +51,7 @@ rule RERUN_CMAKE
 # Rule for cleaning additional files.
 
 rule CLEAN_ADDITIONAL
-  command = /home/light/Qt/Tools/CMake/bin/cmake -DCONFIG=$CONFIG -P CMakeFiles/clean_additional.cmake
+  command = /opt/Qt/Tools/CMake/bin/cmake -DCONFIG=$CONFIG -P CMakeFiles/clean_additional.cmake
   description = Cleaning additional files...
 
 
@@ -59,7 +59,7 @@ rule CLEAN_ADDITIONAL
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = /home/light/Qt/Tools/Ninja/ninja $FILE_ARG -t clean $TARGETS
+  command = /opt/Qt/Tools/Ninja/ninja $FILE_ARG -t clean $TARGETS
   description = Cleaning all built files...
 
 
@@ -67,6 +67,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = /home/light/Qt/Tools/Ninja/ninja -t targets
+  command = /opt/Qt/Tools/Ninja/ninja -t targets
   description = All primary targets available:
 

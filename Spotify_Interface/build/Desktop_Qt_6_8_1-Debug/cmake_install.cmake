@@ -1,4 +1,4 @@
-# Install script for directory: /home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface
+# Install script for directory: /home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,12 +49,12 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/appSpotify_Interface"
          RPATH "\$ORIGIN:\$ORIGIN/../lib")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/appSpotify_Interface")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/appSpotify_Interface")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/appSpotify_Interface" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/appSpotify_Interface")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/appSpotify_Interface"
-         OLD_RPATH "/home/light/Qt/6.8.1/gcc_64/lib:"
+         OLD_RPATH "/opt/Qt/6.8.1/gcc_64/lib:"
          NEW_RPATH "\$ORIGIN:\$ORIGIN/../lib")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/appSpotify_Interface")
@@ -70,5 +70,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

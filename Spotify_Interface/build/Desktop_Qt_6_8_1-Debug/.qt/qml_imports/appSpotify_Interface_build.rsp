@@ -1,0 +1,14 @@
+-rootPath
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface
+-cmake-output
+-output-file
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appSpotify_Interface_build.cmake
+-importPath
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/Spotify_Interface
+-importPath
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/opt/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Spotify_Interface.qrc
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appSpotify_Interface_raw_qml_0.qrc

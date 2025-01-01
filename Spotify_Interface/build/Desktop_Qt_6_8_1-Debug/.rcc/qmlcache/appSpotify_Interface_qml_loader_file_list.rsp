@@ -1,0 +1,8 @@
+--resource
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Spotify_Interface.qrc
+--resource
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appSpotify_Interface_raw_qml_0.qrc
+/qt/qml/Spotify_Interface/Main.qml
+/qt/qml/Spotify_Interface/ui/bottomBar/BottomPlayerBar.qml
+/qt/qml/Spotify_Interface/ui/TopBar/TopBar.qml
+/qt/qml/Spotify_Interface/ui/rightScreen/RightScreen.qml

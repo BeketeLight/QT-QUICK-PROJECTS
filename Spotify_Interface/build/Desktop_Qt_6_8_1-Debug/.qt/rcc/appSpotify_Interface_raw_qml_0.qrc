@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/Spotify_Interface/">
+    <file alias="Main.qml">/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/Main.qml</file>
+    <file alias="ui/bottomBar/BottomPlayerBar.qml">/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/ui/bottomBar/BottomPlayerBar.qml</file>
+    <file alias="ui/TopBar/TopBar.qml">/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/ui/TopBar/TopBar.qml</file>
+    <file alias="ui/rightScreen/RightScreen.qml">/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/ui/rightScreen/RightScreen.qml</file>
+    <file alias="Resources.qrc">/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/Resources.qrc</file>
+  </qresource>
+</RCC>
+

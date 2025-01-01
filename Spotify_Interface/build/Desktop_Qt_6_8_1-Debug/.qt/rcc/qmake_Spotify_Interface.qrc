@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Spotify_Interface">
+    <file alias="qmldir">/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/Spotify_Interface/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -9,21 +9,15 @@ Window {
     height: 900
     visible: true
     title: qsTr("Spotify Interface")
-
     Rectangle{
         id:background
         anchors.fill: parent
         color: "#3d3a3a"
         //opacity: 0.5
     }
-
     TopBar{
         id: topBar
     }
-
-
-
-
     Rectangle{
         id: mainWindow
         width: parent.width
@@ -40,11 +34,10 @@ Window {
         SplitView{
             id: controller
             anchors.fill: parent
-
+            orientation: Qt.Horizontal
             Rectangle{
-                SplitView.minimumWidth: 100
-                SplitView.maximumWidth: 2000
-                SplitView.preferredWidth: 300
+                SplitView.minimumWidth: 165
+                SplitView.preferredWidth: 250
                 color: "yellow"
                 opacity: 0.5
 
@@ -55,21 +48,20 @@ Window {
                     width: parent.width
                     anchors.left: parent.left
                 }
-
-
             }
 
             Rectangle{
                 SplitView.minimumWidth: 300
-                SplitView.maximumWidth: 2060
-                SplitView.preferredWidth: 1300
+                SplitView.fillWidth: true
                 color: "blue"
                 opacity: 0.5
                 radius: 25
             }
 
             Rectangle{
-               width: 300
+                SplitView.minimumWidth: 150
+                SplitView.preferredWidth: 250
+
                color: "red"
                radius: 25
             }
@@ -80,14 +72,6 @@ Window {
     BottomPlayerBar{
         id: bottomPlayerBar
     }
-
-
-
-
-
-
-
-
 
 }
 

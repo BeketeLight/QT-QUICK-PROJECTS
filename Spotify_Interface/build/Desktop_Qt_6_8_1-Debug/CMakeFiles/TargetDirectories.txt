@@ -1,21 +1,22 @@
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmltyperegistration.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_qmltyperegistrations.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmllint.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmllint_json.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmllint_module.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_qmllint.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_qmllint_json.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_qmllint_module.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_tooling.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/module_appSpotify_Interface_aotstats_target.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_aotstats.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmlimportscan.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/edit_cache.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/rebuild_cache.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/list_install_components.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/local.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/strip.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_autogen_timestamp_deps.dir
-/home/light/LIFE PROJECT/QML_projects/QML BASIC/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_autogen.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmltyperegistration.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_qmltyperegistrations.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmllint.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmllint_json.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmllint_module.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_qmllint.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_qmllint_json.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_qmllint_module.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_tooling.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_generate_qmlls_ini_file.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/module_appSpotify_Interface_aotstats_target.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/all_aotstats.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_qmlimportscan.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/edit_cache.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/list_install_components.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/local.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/strip.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_autogen_timestamp_deps.dir
+/home/cisociety/Isociety/Qt/Light/QT-QUICK-PROJECTS/Spotify_Interface/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appSpotify_Interface_autogen.dir
